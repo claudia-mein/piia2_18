@@ -56,5 +56,3 @@ Por este motivo, queremos probar distintas estrategias de generación para anali
 6. **Organización de resultados:** los informes se guardan en carpetas diferenciadas por modelo y estrategia, de manera que sea posible localizar los resultados de cada experimento sin mezclarlos.
 
 7. **Comparación controlada:** para comparar dos estrategias de un mismo modelo, se documentan los parámetros de generación utilizados y se mantienen iguales aquellos que no forman parte de la variable estudiada. Cualquier diferencia en estos parámetros queda registrada.
-
-8. 
