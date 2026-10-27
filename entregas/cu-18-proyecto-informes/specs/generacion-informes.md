@@ -52,4 +52,3 @@ Con esta funcionalidad buscamos obtener un conjunto de informes variados que pod
 
 6. **Disponibilidad para evaluación:** los informes generados quedan almacenados y organizados de forma que puedan recuperarse e identificarse para su posterior análisis y comparación.
 
-7. 
