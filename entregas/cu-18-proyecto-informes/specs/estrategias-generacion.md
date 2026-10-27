@@ -41,7 +41,7 @@ Por este motivo, queremos probar distintas estrategias de generación para anali
 
 - **Limitaciones:** ninguna estrategia garantiza por sí sola que los informes sean clínicamente correctos. La coherencia médica y los posibles errores se analizarán posteriormente durante la evaluación.
 
-- ## Criterios de aceptación
+## Criterios de aceptación
 
 1. **Generación mediante prompting:** el sistema permite generar al menos 5 informes sintéticos utilizando únicamente las instrucciones del prompt, sin proporcionar informes de ejemplo.
 
