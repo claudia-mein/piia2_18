@@ -42,4 +42,20 @@ También queremos que las conclusiones se basen en los resultados de las evaluac
 
 - **Registro de comparaciones:** cada comparación deberá permitir identificar los modelos, las estrategias, las versiones de los prompts, el número de informes y los criterios de evaluación utilizados.
 
-- 
+## Criterios de aceptación
+
+1. **Comparación entre modelos:** se realiza al menos una comparación entre dos modelos de lenguaje diferentes, utilizando un mínimo de 5 informes generados por cada modelo y aplicando los mismos criterios de evaluación.
+
+2. **Comparación entre estrategias:** se comparan al menos dos estrategias de generación de un mismo modelo, utilizando un mínimo de 5 informes por estrategia y registrando las condiciones de cada experimento.
+
+3. **Registro de las condiciones experimentales:** cada comparación identifica los modelos utilizados, las estrategias de generación, las versiones de los prompts, los parámetros de generación disponibles y el número de informes analizados.
+
+4. **Presentación de resultados:** se elabora al menos una tabla comparativa que recoge, para cada experimento, el número de informes evaluados, los errores detectados por categoría y los resultados de las métricas de evaluación utilizadas.
+
+5. **Análisis de errores:** se identifican los tipos de errores más frecuentes de cada experimento, indicando tanto el número total de errores por categoría como el número de informes afectados.
+
+6. **Comparación de la calidad clínica:** cuando se disponga de valoraciones del profesional sanitario para informes de diferentes experimentos, estas se incorporan a la comparación, identificando el número de informes revisados y manteniendo sus resultados separados de las métricas automáticas.
+
+7. **Conclusiones justificadas:** se redacta un resumen de los resultados que identifica las diferencias observadas entre los experimentos. Cada conclusión debe estar respaldada por una tabla, una evaluación registrada o ejemplos concretos de los informes analizados.
+
+8. **Identificación de limitaciones:** cada comparación documenta las diferencias relevantes en las condiciones experimentales, el tamaño de las muestras y la disponibilidad de evaluaciones clínicas, evitando presentar como equivalentes experimentos realizados bajo condiciones distintas.
