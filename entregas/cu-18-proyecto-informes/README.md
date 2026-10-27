@@ -8,6 +8,14 @@ El principal reto es conseguir informes que no solo tengan una estructura y un l
 
 Con este trabajo buscamos identificar qué modelos y estrategias ofrecen mejores resultados y cuáles son sus principales limitaciones. Los informes generados podrán servir como material sintético para investigación y experimentación, sin sustituir documentación clínica real ni utilizarse para tomar decisiones médicas.
 
+## Motivación
+
+Los modelos de lenguaje han demostrado ser capaces de generar textos cada vez más elaborados, pero su aplicación en el ámbito médico sigue presentando dificultades importantes. Aunque pueden producir informes con una estructura y un vocabulario aparentemente correctos, también pueden introducir errores en los diagnósticos, los tratamientos o la información clínica del paciente.
+
+Por este motivo, nos interesa estudiar hasta qué punto diferentes modelos de lenguaje son capaces de generar informes clínicos sintéticos que resulten realistas y coherentes. También queremos comprobar cómo influyen las instrucciones que proporcionamos a los modelos y el uso de informes de ejemplo en la calidad de los resultados.
+
+Al finalizar el proyecto, esperamos identificar las estrategias que ofrecen mejores resultados, analizar los errores más frecuentes y conocer las principales ventajas y limitaciones de los modelos estudiados. Con ello, buscamos contribuir al estudio de la generación de documentación clínica sintética que pueda utilizarse en entornos de investigación y experimentación.
+
 ## Alcance del proyecto
 
 El proyecto se centra en la generación y evaluación de informes clínicos sintéticos de pacientes adultos con cáncer de cabeza y cuello, dentro del ámbito de la Oncología Radioterápica.
